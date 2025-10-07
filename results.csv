@@ -1,0 +1,4 @@
+URL,Status,Latency(ms),Attempt
+https://www.google.com,UP,1210,1
+https://www.github.com,UP,1019,1
+https://httpstat.us/500,DOWN,2108,1
