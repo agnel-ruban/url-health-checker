@@ -1,0 +1,7 @@
+* Thread creation & ThreadPoolExecutor
+* Task submission with Callable
+* Semaphore
+* Retry with exponential backoff
+* ScheduledExecutorService   (used schdule method and scheduleAtFixedRate method)
+* ConcurrentHashMap + ReentrantReadWriteLock
+* LongAdder = Atomic operations/ faster than AtomicInteger
